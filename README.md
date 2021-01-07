@@ -1,4 +1,7 @@
-# Run docker
+# WebFace
+Very simple web page for my home server.
+
+## Run on docker
 
 ```bash
 docker build -t my-apache2 .
